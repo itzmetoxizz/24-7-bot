@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ob12smphelper",
+    "username": "TOPTIERsmphelper",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ob12smp.aternos.me",
-    "port": 24714,
+    "ip": "play.ob12smp.qzz.io",
+    "port": 26750,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "I'm a HELPER",
         "Subscribe to Itzmetoxizz!",
-        "HI"
+        "Hi"
       ]
     },
     "chat-log": true,
